@@ -1,2 +1,2 @@
-const lis = document.querySelector('#categories');
-console.log(lis.children);
+const lis = document.querySelectorAll('.item');
+console.log(lis);
